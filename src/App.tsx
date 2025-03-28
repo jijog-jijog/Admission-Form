@@ -256,9 +256,10 @@ export default function SchoolAdmissionForm() {
                       type="button"
                       className="w-full bg-white/10 hover:bg-white/20 text-white border border-white/30"
                     >
-                      View Local Details
+                      View Submitted Details
                     </Button>
                   </Link>
+                  
                   <Link to="/server-submitted-details" className="w-full">
                     <Button
                       type="button"
